@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="azulescuro">#0F7ADA</color>
+    <color name="azulclaro">#2BD0FE</color>
+    <color name="fbcolor">#2755B7</color>
+    <color name="editbox">#E0FFFF</color>
+
+</resources>
